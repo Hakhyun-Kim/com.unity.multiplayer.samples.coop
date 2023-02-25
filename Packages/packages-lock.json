@@ -1,5 +1,15 @@
 {
   "dependencies": {
+    "com.solana.unity_sdk": {
+      "version": "https://github.com/garbles-labs/Solana.Unity-SDK.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.0.2",
+        "com.unity.textmeshpro": "3.0.6"
+      },
+      "hash": "862f65329f17edb5d1b22fb54925096834424c24"
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
